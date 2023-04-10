@@ -15,7 +15,7 @@ function post() {
           <a href="#" className="author">
             amanpreet
           </a>
-          <timne>06-12-2023</timne>
+          <time>06-12-2023</time>
         </p>
         <p className="summary">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
